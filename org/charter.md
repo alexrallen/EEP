@@ -4,7 +4,7 @@ title: Charter
 permalink: /charter/
 ---
 
-Updated charter!
+Updated charter! More changes....
 
 Some information about you!
 
