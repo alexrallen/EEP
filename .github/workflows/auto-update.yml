@@ -22,7 +22,7 @@ jobs:
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v1.1.1
         with:
-          token: 5f9fc3a2d9b7349d2f72f4013899bc359bd39cb2
+          token: a8db329b1a9125d1e875175f897b43a7b29f4c2a
           repository: robocoder99/robocoder99.github.io
           event-type: update-event
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'   
