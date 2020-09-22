@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Mentor Meeting #2
+title: Mentor Meeting 2
 ---
-
-#### Intro
 
 Exchanged bried pleasantries with Luke and then expressed a desire to present lightning pitches and see his feedback on the pitch and any changes to the idea we had made in the past two weeks. General consenus on this model.
 

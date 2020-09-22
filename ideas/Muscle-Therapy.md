@@ -3,8 +3,6 @@ layout: page
 title: Intelligent Muscle Thermal Stimulator
 ---
 
-# Intelligent Muscle Thermal Stimulator
-
 A supplement to any chair that provides personalized thermal stimulation via inflammation detection with temperature sensing
 
 ## Business Model Canvas

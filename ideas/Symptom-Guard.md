@@ -3,8 +3,6 @@ layout: page
 title: Symptom Guard
 ---
 
-# Symptom Guard
-
 * Decrease wait and process time
 
 * Sort inpatients by contagion level at door

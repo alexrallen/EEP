@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Regular Meeting #3
+title: Regular Meeting 3
 ---
 
-#### Intro
-
-Chloe presented an agenda in which any new ideas would be reviewed and then all ideas that were proposed to be worked on for the business model canvas would be presented and voted on. General consensus formed around this agenda. 
+Chloe presented an agenda in which any new ideas would be reviewed and then all ideas that were proposed to be worked on for the business model canvas would be presented and voted on. General consensus formed around this agenda.
 
 
 #### Ideas

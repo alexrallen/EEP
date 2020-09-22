@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Faculty Meeting #2
+title: Faculty Meeting 2
 ---
-
-#### Intro
 
 Introduced ourselves to Seth Hollar.
 

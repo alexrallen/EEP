@@ -3,11 +3,9 @@ layout: page
 title: Iron Hands
 ---
 
-# Iron Hands
-
 A pair of electronically controlled gloves that senses intended movement in the fingers and provides extra mechanical force in the same direction.
 
-The force would be translated to the fingers via cables or ribbons on both the inside and outside of the gloves, working in much the same way tendons in fingers do. 
+The force would be translated to the fingers via cables or ribbons on both the inside and outside of the gloves, working in much the same way tendons in fingers do.
 
 Two potential applications:
 
