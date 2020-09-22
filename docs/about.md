@@ -22,10 +22,10 @@ Mark is studying Electrical and Computer Engineering. He really enjoys Engineeri
 
 Chloé is a senior studying biomedical engineering with a concentration in biomechanics. She has professional experience in 3D design and prototyping, GMP regulatory compliance, manufacturing, and gene therapy. Chloé really loves pugs, skateboarding, art, and social justice. One day she hopes to either be 3D printing with cell tissue in zero gravity or designing spacesuits for NASA!
 
-### Monique Reid
+#### Monique Reid
 
 Monique is studying biomedical engineering with a concentration in biomechanics. Some of her background in the medical device industry includes quality management, prototyping, and lean manufacturing. Monique has short term goals of either continuing her education or working for a startup company. Outside of school, she enjoys photography and traveling.
 
-### Keith Mellendorf
+#### Keith Mellendorf
 
 Keith is a senior in Computer Engineering. He enjoys playing Video games and Ultimate Frisbee. his technical skills, and interests, are in embedded programming. Keith would like to focus his career in the field of either medical devices, aerospace, or automotive.
